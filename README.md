@@ -38,3 +38,26 @@ Para poner en marcha este proyecto en tu equipo local, sigue estos sencillos pas
 1. **Clona el repositorio:**
    ```bash
    git clone https://github.com/TheeWiick/Weather-App.git
+
+2. Obtén tu API Key gratuita:
+
+        Regístrate en OpenWeatherMap.
+
+        Genera tu clave de API (API Key desde tu perfil).
+
+3. Configura tus credenciales:
+
+        Abre el archivo de configuración o el script de JavaScript donde se realizan las peticiones.
+
+        Reemplaza la variable de la clave por tu API Key:
+        JavaScript
+
+        const API_KEY = 'TU_API_KEY_AQUÍ';
+
+4. Ejecuta el proyecto:
+
+        Abre el archivo index.html en tu navegador web preferido o utiliza una extensión como Live Server en VS Code.
+
+👨‍💻 Autor
+
+Desarrollado con ❤️ por Javier Martínez.
