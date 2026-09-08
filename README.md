@@ -37,4 +37,4 @@ Para poner en marcha este proyecto en tu equipo local, sigue estos sencillos pas
 
 1. **Clona el repositorio:**
    ```bash
-   git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/tu-usuario/tu-repositorio.git)
+   git clone https://github.com/TheeWiick/Weather-App.git
