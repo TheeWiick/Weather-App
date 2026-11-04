@@ -12,9 +12,9 @@ Una aplicación meteorológica interactiva y minimalista que permite consultar e
 </div>
 
 ---
-
+<div align="center">
 [🌐 Visitar Web](https://theewiick.github.io/Weather-App/)
-
+</div>
 ## ✨ Características Principales
 
 * **Búsqueda en tiempo real:** Consulta el clima introduciendo el nombre de cualquier ciudad del mundo.
