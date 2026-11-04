@@ -13,7 +13,9 @@ Una aplicación meteorológica interactiva y minimalista que permite consultar e
 
 ---
 <div align="center">
-[🌐 Visitar Web](https://theewiick.github.io/Weather-App/)
+
+[🌐 Visitar Web](https://theewiick.github.io/App-Lugares/)
+
 </div>
 ## ✨ Características Principales
 
